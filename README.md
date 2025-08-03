@@ -1,3 +1,3 @@
-# Ecommerce Extension for Thesis Under FDC
+# Ecommerce Extension 
 
 - This is MERN STACK based Chrome Extension
