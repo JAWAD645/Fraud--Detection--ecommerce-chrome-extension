@@ -128,6 +128,10 @@ Lets users rate the site by selecting multiple predefined or AI-generated option
 
 <img src="https://github.com/JAWAD645/Fraud--Detection--ecommerce-chrome-extension/blob/7f656f86d64dca3a1729d919627dfa15a3e9c2ba/Drop%20Down%20Menu.png" alt="Ring Generator Preview" width="400">
 
+## *Play this gif to get a preview*
+
+<img src="https://github.com/JAWAD645/Fraud--Detection--ecommerce-chrome-extension/blob/7f656f86d64dca3a1729d919627dfa15a3e9c2ba/Drop%20Down%20Menu.png" alt="Ring Generator Preview" width="400">
+
 
 ## 📥 Installation & Setup
 
