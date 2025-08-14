@@ -111,14 +111,9 @@ H --> I[Update Real-Time Trust Score in Popup]
 
 ## 🖼 UI Preview Section
 
-*(Replace with actual screenshots or mockups)*
+*First View*
 
-```
-![Extension Popup - Summary View](images/popup_summary.png)
-![Extension Popup - Review Submission](images/popup_review.png)
-![Dynamic Confidence Bar Example](images/confidence_bar.png)
-```
-
+<img src="https://github.com/JAWAD645/Fraud--Detection--ecommerce-chrome-extension/blob/9077663bb168295f7c30ff7f5744c130b2c52c7b/front%20view%20.png" alt="Ring Generator Preview" width="400">
 
 
 ## 📥 Installation & Setup
