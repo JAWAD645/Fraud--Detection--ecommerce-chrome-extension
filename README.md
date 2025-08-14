@@ -130,7 +130,7 @@ Lets users rate the site by selecting multiple predefined or AI-generated option
 
 ## *Play this gif to get a preview*
 
-<img src="https://github.com/JAWAD645/Fraud--Detection--ecommerce-chrome-extension/blob/ecbf3d8bf80cf8f0ab14a062f88b503932dd749a/Preview%20of%20the%20extension.gif" alt="R" width="400">
+<img src="https://github.com/JAWAD645/Fraud--Detection--ecommerce-chrome-extension/blob/bf7d543f240d1b9977dcb68fec71e8cefc1a9ebe/Preview%20of%20extension.gif" alt="Preview" width="400">
 
 ## 📥 Installation & Setup
 
