@@ -115,23 +115,22 @@ Section 1, 3 & 4 – Site Overview
 
 Section 1 Displays the e-commerce site’s logo, URL, government registration status, and a 5-star trust rating with a color-coded confidence bar. This section instantly tells the user whether the site is verified and how trustworthy it is. Section 3 Highlights the top five most frequently chosen review options from Section 2, along with the number of reviewers for each. Section 4 Shows the latest written feedback from users, with an option to view all reviews in a dedicated view for detailed reading.
 
-<img src="https://github.com/JAWAD645/Fraud--Detection--ecommerce-chrome-extension/blob/9077663bb168295f7c30ff7f5744c130b2c52c7b/front%20view%20.png" alt="Ring Generator Preview" width="400">
+<img src="https://github.com/JAWAD645/Fraud--Detection--ecommerce-chrome-extension/blob/9077663bb168295f7c30ff7f5744c130b2c52c7b/front%20view%20.png" alt="R" width="400">
 
 ## *How the Registered Business Tag Looks*
 
-<img src="https://github.com/JAWAD645/Fraud--Detection--ecommerce-chrome-extension/blob/e6e0e488f0b740d1b641b1e80fbbf6d6a377012d/Regestered%20Business%20tag.png" alt="Ring Generator Preview" width="400">
+<img src="https://github.com/JAWAD645/Fraud--Detection--ecommerce-chrome-extension/blob/e6e0e488f0b740d1b641b1e80fbbf6d6a377012d/Regestered%20Business%20tag.png" alt="R" width="400">
 
 ## *Drop down menu for review section*
 Section 2 – User Reviews
 
 Lets users rate the site by selecting multiple predefined or AI-generated options under three categories — Product Quality, Service Satisfaction, and Platform Experience — plus an input box for textual reviews.
 
-<img src="https://github.com/JAWAD645/Fraud--Detection--ecommerce-chrome-extension/blob/7f656f86d64dca3a1729d919627dfa15a3e9c2ba/Drop%20Down%20Menu.png" alt="Ring Generator Preview" width="400">
+<img src="https://github.com/JAWAD645/Fraud--Detection--ecommerce-chrome-extension/blob/7f656f86d64dca3a1729d919627dfa15a3e9c2ba/Drop%20Down%20Menu.png" alt="R" width="400">
 
 ## *Play this gif to get a preview*
 
-<img src="https://github.com/JAWAD645/Fraud--Detection--ecommerce-chrome-extension/blob/7f656f86d64dca3a1729d919627dfa15a3e9c2ba/Drop%20Down%20Menu.png" alt="Ring Generator Preview" width="400">
-
+<img src="https://github.com/JAWAD645/Fraud--Detection--ecommerce-chrome-extension/blob/ecbf3d8bf80cf8f0ab14a062f88b503932dd749a/Preview%20of%20the%20extension.gif" alt="R" width="400">
 
 ## 📥 Installation & Setup
 
