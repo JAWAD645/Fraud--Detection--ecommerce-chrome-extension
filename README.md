@@ -115,6 +115,9 @@ H --> I[Update Real-Time Trust Score in Popup]
 
 <img src="https://github.com/JAWAD645/Fraud--Detection--ecommerce-chrome-extension/blob/9077663bb168295f7c30ff7f5744c130b2c52c7b/front%20view%20.png" alt="Ring Generator Preview" width="400">
 
+*How the Registered Business Tag Looks*
+
+<img src="https://github.com/JAWAD645/Fraud--Detection--ecommerce-chrome-extension/blob/e6e0e488f0b740d1b641b1e80fbbf6d6a377012d/Regestered%20Business%20tag.png" alt="Ring Generator Preview" width="400">
 
 ## 📥 Installation & Setup
 
